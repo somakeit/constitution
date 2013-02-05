@@ -2,36 +2,29 @@ Taken from http://www.charity-commission.gov.uk/Library/guidance/CIO-Association
 
 
 
-Constitution of a Charitable Incorporated Organisation
-with voting members other than its charity trustees
+Constitution of a Charitable Incorporated Organisation with voting members other than its charity trustees
     
 (‘Association’ Model Constitution)
-Date of constitution (last amended):
-  .........................................................................................................................
+
+Date of constitution (last amended): 5th February 2013.
 
 1. Name
 
-  The name of the Charitable Incorporated Organisation (“the CIO”) is
-  .........................................................................................................................
+  The name of the Charitable Incorporated Organisation (“the CIO”) is So Make It.
 
 2. National location of principal office
 
-  The CIO must have a principal office in England or Wales. The principal office of the CIO is in [England][Wales].
+  The CIO must have a principal office in England or Wales. The principal office of the CIO is in England.
 
 3. Object[s]
 
-  The object[s] of the CIO [is][are]
-  .........................................................................................................................
-  .........................................................................................................................
-  .........................................................................................................................
-  .........................................................................................................................
+  The object of the CIO is for the advancement of the arts, science and technology by the establishment and maintenance of facilities for the residents of Southampton and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions.
   
-  Nothing in this constitution shall authorise an application of the property of the CIO for the purposes which are not charitable in accordance with [section 7 of the Charities and Trustee Investment (Scotland) Act 2005] and [section 2 of the Charities Act (Northern Ireland) 2008]
+  Nothing in this constitution shall authorise an application of the property of the CIO for the purposes which are not charitable.
 
 4. Powers
 
-  The CIO has power to do anything which is calculated to further its object[s] or is conducive or incidental to doing so. In particular, the CIO’s
-powers include power to:
+  The CIO has power to do anything which is calculated to further its object or is conducive or incidental to doing so. In particular, the CIO’s powers include power to:
   
   (1) borrow money and to charge the whole or any part of its property as security for the repayment of the money borrowed. The CIO must comply as appropriate with sections 124 and 125 of the Charities Act 2011 if it wishes to mortgage land;
   
@@ -66,7 +59,7 @@ powers include power to:
     unless the payment or benefit is permitted by sub-clause (2) of this clause, or authorised by the court or the Charity Commission (“the Commission”). In this clause, a “financial benefit” means a benefit, direct or indirect, which is either money or has a monetary value.
   
   (2) Scope and powers permitting trustees’ or connected persons’ benefits
-    (a) A charity trustee or connected person may receive a benefit from the CIO as a beneficiary of the CIO provided that a majority of the trustees do not benefit in this way.
+    (a) A charity trustee or connected person may receive a benefit from the CIO as a beneficiary of the CIO provided that it is available generally to the beneficiaries of the CIO.
     (b) A charity trustee or connected person may enter into a contract for the supply of services, or of goods that are supplied in connection with the provision of services, to the CIO where that is permitted in accordance with, and subject to the conditions in, section 185 to 188 of the Charities Act 2011.
     (c) Subject to sub-clause (3) of this clause a charity trustee or connected person may provide the CIO with goods that are not supplied in connection with services provided to the CIO by the charity trustee or connected person.
     (d) A charity trustee or connected person may receive interest on money lent to the CIO at a reasonable and proper rate which must be not more than the Bank of England bank rate (also known as the base rate).
@@ -102,30 +95,24 @@ powers include power to:
 
 8. Liability of members to contribute to the assets of the CIO if it is wound up
   
-  Option 1
     If the CIO is wound up, the members of the CIO have no liability to contribute to its assets and no personal responsibility for settling its debts and liabilities.
-  
-  Option 2
-    (1) If the CIO is wound up, each member of the CIO is liable to contribute to the assets of the CIO such amount (but not more than £[...]) as may be required for payment of the debts and liabilities of the CIO contracted before that person or organisation ceases to be a member, for payment of the costs, charges and expenses of winding up, and for adjustment of the rights of the contributing members among themselves.
-    (2) In sub-clause (1) of this clause “member” includes any person or organisation that was a member of the CIO within 12 months before the commencement of the winding up.
-    (3) But subject to that, the members of the CIO have no liability to contribute to its assets if it is wound up, and accordingly have no personal responsibility for the settlement of its debts and liabilities beyond the amount that they are liable to contribute.
 
 9. Membership of the CIO
   
   (1) Admission of new members
     (a) Eligibility
       Membership of the CIO is open to anyone who is interested in furthering its purposes, and who, by applying for membership, has indicated his, her or its agreement to become a member and acceptance of the duty of members set out in sub-clause (3) of this clause.
-      A member may be an individual, a corporate body, or [an individual or corporate body representing] an organisation which is not incorporated.
+      A member may be an individual, a corporate body, or an individual or corporate body representing an organisation which is not incorporated.
     (b)  Admission procedure
       The charity trustees :
       (i) may require applications for membership to be made in any reasonable way that they decide;
-      (ii) [shall, if they approve an application for membership, notify the applicant of their decision within [21 days];]
+      (ii) shall, if they approve an application for membership, notify the applicant of their decision within 21 days;
       (iii) may refuse an application for membership if they believe that it is in the best interests of the CIO for them to do so;
-      (iv) shall, if they decide to refuse an application for membership, give the applicant their reasons for doing so, within [21 days] of the decision being taken, and give the applicant the opportunity to appeal against the refusal; and
+      (iv) shall, if they decide to refuse an application for membership, give the applicant their reasons for doing so, within 21 days of the decision being taken, and give the applicant the opportunity to appeal against the refusal; and
       (v) shall give fair consideration to any such appeal, and shall inform the applicant of their decision, but any decision to confirm refusal of the application for membership shall be final.
   
   (2) Transfer of membership
-    Membership of the CIO cannot be transferred to anyone else [except in the case of an individual or corporate body representing an organisation which is not incorporated, whose membership may be transferred by the unincorporated organisation to a new representative. Such transfer of membership does not take effect until the CIO has received written notification of the transfer].
+    Membership of the CIO cannot be transferred to anyone else except in the case of an individual or corporate body representing an organisation which is not incorporated, whose membership may be transferred by the unincorporated organisation to a new representative. Such transfer of membership does not take effect until the CIO has received written notification of the transfer.
   
   (3) Duty of members
     It is the duty of each member of the CIO to exercise his or her powers as a member of the CIO in the way he or she decides in good faith would be most likely to further the purposes of the CIO.
@@ -144,11 +131,11 @@ powers include power to:
       (v) allow the member, or the member’s representative, to make those representations in person at that meeting, if the member so chooses.
   
   (5) Membership fees
-    The CUI may require members to pay reasonable membership fees to the CIO
+    The CIO may require members to pay reasonable membership fees to the CIO
   
-  [(6) Informal or associate (non-voting) membership
+  (6) Informal or associate (non-voting) membership
     (a) The charity trustees may create associate or other classes of non-voting membership, and may determine the rights and obligations of any such members (including payment of membership fees), and the conditions for admission to, and termination of membership of any such class of members.
-    (b) Other references in this constitution to “members” and “membership” do not apply to non-voting members, and non-voting members do not qualify as members for any purpose under the Charities Acts, General Regulations or Dissolution Regulations.]
+    (b) Other references in this constitution to “members” and “membership” do not apply to non-voting members, and non-voting members do not qualify as members for any purpose under the Charities Acts, General Regulations or Dissolution Regulations.
 
 10. Members’ decisions
   
@@ -156,7 +143,7 @@ powers include power to:
     Except for those decisions that must be taken in a particular way as indicated in sub-clause (4) of this clause, decisions of the members of the CIO may be taken either by vote at a general meeting as provided in sub-clause (2) of this clause or by written resolution as provided in sub-clause (3) of this clause.
   
   (2) Taking ordinary decisions by vote
-    Subject to sub-clause (4) of this clause, any decision of the members of the CIO may be taken by means of a resolution at a general meeting.  Such a resolution may be passed by a simple majority of votes cast at the meeting [(including votes cast by postal or email ballot, and proxy votes)].
+    Subject to sub-clause (4) of this clause, any decision of the members of the CIO may be taken by means of a resolution at a general meeting.  Such a resolution may be passed by a simple majority of votes cast at the meeting (including votes cast by postal or email ballot, and proxy votes).
   
   (3) Taking ordinary decisions by written resolution without a general meeting
     (a) Subject to sub-clause (4) of this clause, a resolution in writing agreed by a simple majority of all the members who would have been entitled to vote upon it had it been proposed at a general meeting shall be effective, provided that:
@@ -172,9 +159,8 @@ powers include power to:
     (f) Sub-clauses (a) to (c) of this clause apply to a proposal made at the request of members.
   
   (4) Decisions that must be taken in a particular way
-    [(a) Any decision to remove a trustee must be taken in accordance with clause [15(2)].]
-    (b) Any decision to amend this constitution must be taken in accordance with clause [28] of this constitution (Amendment of Constitution).
-    (c) Any decision to wind up or dissolve the CIO must be taken in accordance with clause [29] of this constitution (Voluntary winding up or dissolution). Any decision to amalgamate or transfer the undertaking of the CIO to one or more other CIOs must be taken in accordance with the provisions of the Charities Act 2011.
+    (a) Any decision to amend this constitution must be taken in accordance with clause [28] of this constitution (Amendment of Constitution).
+    (b) Any decision to wind up or dissolve the CIO must be taken in accordance with clause [29] of this constitution (Voluntary winding up or dissolution). Any decision to amalgamate or transfer the undertaking of the CIO to one or more other CIOs must be taken in accordance with the provisions of the Charities Act 2011.
 
 11. General meetings of members
   
@@ -215,26 +201,26 @@ powers include power to:
   
   (5) Quorum at general meetings
     (a) No business may be transacted at any general meeting of the members of the CIO unless a quorum is present when the meeting starts.
-    (b) Subject to the following provisions, the quorum for general meetings shall be the greater of [5]% or [three] members. An organisation represented by a person present at the meeting in accordance with sub-clause (7) of this clause, is counted as being present in person.
+    (b) Subject to the following provisions, the quorum for general meetings shall be the greater of 5% or three members. An organisation represented by a person present at the meeting in accordance with sub-clause (7) of this clause, is counted as being present in person.
     (c) If the meeting has been called by or at the request of the members and a quorum is not present within 15 minutes of the starting time specified in the notice of the meeting, the meeting is closed.
-    (d) If the meeting has been called in any other way and a quorum is not present within 15 minutes of the starting time specified in the notice of the meeting, the chair must adjourn the meeting. The date, time and place at which the meeting will resume must [either be announced by the chair or] be notified to the CIO’s members at least seven clear days before the date on which it will resume.
+    (d) If the meeting has been called in any other way and a quorum is not present within 15 minutes of the starting time specified in the notice of the meeting, the chair must adjourn the meeting. The date, time and place at which the meeting will resume must either be announced by the chair or be notified to the CIO’s members at least seven clear days before the date on which it will resume.
     (e) If a quorum is not present within 15 minutes of the start time of the adjourned meeting, the member or members present at the meeting constitute a quorum.
     (f) If at any time during the meeting a quorum ceases to be present, the meeting may discuss issues and make recommendations to the trustees but may not make any decisions. If decisions are required which must be made by a meeting of the members, the meeting must be adjourned.
   
   (6) Voting at general meetings
-    (a) Any decision other than one falling within clause [10(4)] (Decisions that must be taken in a particular way) shall be taken by a simple majority of votes cast at the meeting [(including proxy and postal votes)]. Every member has one vote [unless otherwise provided in the rights of a particular class of membership under this constitution].
+    (a) Any decision other than one falling within clause [10(4)] (Decisions that must be taken in a particular way) shall be taken by a simple majority of votes cast at the meeting (including proxy and postal votes). Every member has one vote.
     (b) A resolution put to the vote of a meeting shall be decided on a show of hands, unless (before or on the declaration of the result of the show of hands) a poll is duly demanded. A poll may be demanded by the chair or by at least 10% of the members present in person or by proxy at the meeting.
     (c) A poll demanded on the election of a person to chair the meeting or on a question of adjournment must be taken immediately. A poll on any other matter shall be taken, and the result of the poll shall be announced, in such manner as the chair of the meeting shall decide, provided that the poll must be taken, and the result of the poll announced, within 30 days of the demand for the poll.
     (d) A poll may be taken :
       (i) at the meeting at which it was demanded; or
       (ii) at some other time and place specified by the chair; or
       (iii) through the use of postal or electronic communications.
-    [(e) In the event of an equality of votes, whether on a show of hands or on a poll, the chair of the meeting shall have a second, or casting vote.]
+    (e) In the event of an equality of votes, whether on a show of hands or on a poll, the chair of the meeting shall have a second, or casting vote.
     (f) Any objection to the qualification of any voter must be raised at the meeting at which the vote is cast and the decision of the chair of the meeting shall be final.
   
-  (7) Representation of [organisations and] corporate members
-    A[n organisation or a]corporate body that is a member of the CIO may, in accordance with its usual decision-making process, authorise a person to act as its representative at any general meeting of the CIO.  
-    The representative is entitled to exercise the same powers on behalf of the [organisation or] corporate body as the [organisation or] corporate body could exercise as an individual member of the CIO.
+  (7) Representation of organisations and corporate members
+    An organisation or a corporate body that is a member of the CIO may, in accordance with its usual decision-making process, authorise a person to act as its representative at any general meeting of the CIO.  
+    The representative is entitled to exercise the same powers on behalf of the organisation or corporate body as the organisation or corporate body could exercise as an individual member of the CIO.
   
   (8) Adjournment of meetings
     The chair may with the consent of a meeting at which a quorum is present (and shall if so directed by the meeting) adjourn the meeting to another time and/or place. No business may be transacted at an adjourned meeting except business which could properly have been transacted at the original meeting.
