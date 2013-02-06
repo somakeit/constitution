@@ -18,7 +18,7 @@ Date of constitution (last amended): 5th February 2013.
 
 3. Object[s]
 
-  The object of the CIO is for the advancement of the arts, science and technology by the establishment and maintenance of facilities for the residents of Southampton and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions.
+  The object of the CIO is for the advancement of education in the arts, science and technology by the establishment and maintenance of facilities for the residents of Southampton and the neighbourhood, without distinction of sex, sexual orientation, race or of political, religious or other opinions.
   
   Nothing in this constitution shall authorise an application of the property of the CIO for the purposes which are not charitable.
 
@@ -159,8 +159,9 @@ Date of constitution (last amended): 5th February 2013.
     (f) Sub-clauses (a) to (c) of this clause apply to a proposal made at the request of members.
   
   (4) Decisions that must be taken in a particular way
-    (a) Any decision to amend this constitution must be taken in accordance with clause [28] of this constitution (Amendment of Constitution).
-    (b) Any decision to wind up or dissolve the CIO must be taken in accordance with clause [29] of this constitution (Voluntary winding up or dissolution). Any decision to amalgamate or transfer the undertaking of the CIO to one or more other CIOs must be taken in accordance with the provisions of the Charities Act 2011.
+    (a) Any decision to remove a trustee must be taken in accordance with clause [15(2)].
+    (b) Any decision to amend this constitution must be taken in accordance with clause [28] of this constitution (Amendment of Constitution).
+    (c) Any decision to wind up or dissolve the CIO must be taken in accordance with clause [29] of this constitution (Voluntary winding up or dissolution). Any decision to amalgamate or transfer the undertaking of the CIO to one or more other CIOs must be taken in accordance with the provisions of the Charities Act 2011.
 
 11. General meetings of members
   
@@ -281,9 +282,9 @@ Date of constitution (last amended): 5th February 2013.
   
   (4) First charity trustees
     The first charity trustees of the CIO are –
-        Anton Piatek
+        Mieczyslaw Anton Piatek
         Benjamin Gillam
-        Bracken Dawson
+        Alan Bracken Dawson
         Christopher Smith
         James Bruton
 
@@ -346,7 +347,6 @@ Date of constitution (last amended): 5th February 2013.
   (3) Procedure at meetings
     (a) No decision shall be taken at a meeting unless a quorum is present at the time when the decision is taken. The quorum is two charity trustees, or the number nearest to one third of the total number of charity trustees, whichever is greater, or such larger number as the charity trustees may decide from time to time. A charity trustee shall not be counted in the quorum present when any decision is made about a matter upon which he or she is not entitled to vote.
     (b) Questions arising at a meeting shall be decided by a majority of those eligible to vote.
-    (c) In the case of an equality of votes, the chair shall have a second or casting vote.
   
   (4) Participation in meetings by electronic means
     (a) A meeting may be held by suitable electronic means agreed by the charity trustees in which each participant may communicate with all the other participants.
