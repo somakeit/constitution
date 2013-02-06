@@ -225,6 +225,39 @@ Date of constitution (last amended): 5th February 2013.
   (8) Adjournment of meetings
     The chair may with the consent of a meeting at which a quorum is present (and shall if so directed by the meeting) adjourn the meeting to another time and/or place. No business may be transacted at an adjourned meeting except business which could properly have been transacted at the original meeting.
 
+  (9) Proxy voting
+    (a) Any member of the CIO may appoint another person as a proxy to exercise all or any of that member’s rights to attend, speak and vote at a general meeting of the CIO. Proxies must be appointed by a notice in writing (a “proxy notice”) which:
+      (i) states the name and address of the member appointing the proxy;
+      (ii) identifies the person appointed to be that member’s proxy and the general meeting in relation to which that person is appointed;
+      (iii) is signed by or on behalf of the member appointing the proxy, or is authenticated in such manner as the CIO may determine; and
+      (iv) is delivered to the CIO in accordance with the constitution and any instructions contained in the notice of the general meeting to which they relate.
+    (b) The CIO may require proxy notices to be delivered in a particular form, and may specify different forms for different purposes.
+    (c) Proxy notices may (but do not have to) specify how the proxy appointed under them is to vote (or that the proxy is to abstain from voting) on one or more resolutions.
+    (d) Unless a proxy notice indicates otherwise, it must be treated as :
+      (i) allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting; and
+      (ii) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
+    (e) A member who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the CIO by or on behalf of that member.
+    (f) An appointment under a proxy notice may be revoked by delivering to the CIO a notice in writing given by or on behalf of the member by whom or on whose behalf the proxy notice was given.
+    (g) A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or adjourned meeting to which it relates.
+    (h) If a proxy notice is not signed or authenticated by the member appointing the proxy, it must be accompanied by written evidence that the person who signed or authenticated it on that member’s behalf had authority to do so.
+
+  (10) Postal Voting
+    (a) The CIO may, if the charity trustees so decide, allow the members to vote by post or electronic mail (“email”) to elect charity trustees or to make a decision on any matter that is being decided at a general meeting of the members.
+    (b) The charity trustees must appoint at least two persons independent of the CIO to serve as scrutineers to supervise the conduct of the postal/email ballot and the counting of votes.
+    (c) If postal and/or email voting is to be allowed on a matter, the CIO must send to members of the CIO not less than [21] days before the deadline for receipt of votes cast in this way:
+      (i) a notice by email, if the member has agreed to receive notices in this way under clause [21] (Use of electronic communication, including an explanation of the purpose of the vote and the voting procedure to be followed by the member, and a voting form capable of being returned by email or post to the CIO, containing details of the resolution being put to a vote, or of the candidates for election, as applicable;
+      (ii) a notice by post to all other members, including a written explanation of the purpose of the postal vote and the voting procedure to be followed by the member; and a postal voting form containing details of the resolution being put to a vote, or of the candidates for election, as applicable.
+    (d) The voting procedure must require all forms returned by post to be in an envelope with the member’s name and signature, and nothing else, on the outside, inside another envelope addressed to ‘The Scrutineers for So Make It’, at the CIO’s principal office or such other postal address as is specified in the voting procedure.
+    (e) The voting procedure for votes cast by email must require the member’s name to be at the top of the email, and the email must be authenticated in the manner specified in the voting procedure.
+    (f) Email votes must be returned to an email address used only for this purpose and must be accessed only by a scrutineer.
+    (g) The voting procedure must specify the closing date and time for receipt of votes, and must state that any votes received after the closing date or not complying with the voting procedure will be invalid and not be counted.
+    (h) The scrutineers must make a list of names of members casting valid votes, and a separate list of members casting votes which were invalid. These lists must be provided to a charity trustee or other person overseeing admission to, and voting at, the general meeting. A member who has cast a valid postal or email vote must not vote at the meeting, and must not be counted in the quorum for any part of the meeting on which he, she or it has already cast a valid vote. A member who has cast an invalid vote by post or email is allowed to vote at the meeting and counts towards the quorum.
+      (i) For postal votes, the scrutineers must retain the internal envelopes (with the member’s name and signature). For email votes, the scrutineers must cut off and retain any part of the email that includes the member’s name. In each case, a scrutineer must record on this evidence of the member’s name that the vote has been counted, or if the vote has been declared invalid, the reason for such declaration.
+      (j) Votes cast by post or email must be counted by all the scrutineers before the meeting at which the vote is to be taken. The scrutineers must provide to the person chairing the meeting written confirmation of the number of valid votes received by post and email and the number of votes received which were invalid.
+      (k) The scrutineers must not disclose the result of the postal/email ballot until after votes taken by hand or by poll at the meeting, or by poll after the meeting, have been counted. Only at this point shall the scrutineers declare the result of the valid votes received, and these votes shall be included in the declaration of the result of the vote.
+      (l) Following the final declaration of the result of the vote, the scrutineers must provide to a charity trustee or other authorised person bundles containing the evidence of members submitting valid postal votes; evidence of members submitting valid email votes; evidence of invalid votes; the valid votes; and the invalid votes.
+      (m) Any dispute about the conduct of a postal or email ballot must be referred initially to a panel set up by the charity trustees, to consist of two trustees and two persons independent of the CIO. If the dispute cannot be satisfactorily resolved by the panel, it must be referred to the Electoral Reform Society.
+
 12. Charity trustees
   
   (1) Functions and duties of charity trustees
@@ -240,64 +273,27 @@ Date of constitution (last amended): 5th February 2013.
       * if he or she is under the age of 16 years; or
       * if he or she would automatically cease to hold office under the provisions of clause [15(1)(f)].
     (c) No one is entitled to act as a charity trustee whether on appointment or on any re-appointment until he or she has expressly acknowledged, in whatever way the charity trustees decide, his or her acceptance of the office of charity trustee.
-    [(d) At least one of the trustees of the CIO must be 18 years of age or over. If there is no trustee aged at least 18 years, the remaining trustee or trustees may act only to call a meeting of the charity trustees, or appoint a new charity trustee.]
+    (d) At least one of the trustees of the CIO must be 18 years of age or over. If there is no trustee aged at least 18 years, the remaining trustee or trustees may act only to call a meeting of the charity trustees, or appoint a new charity trustee.
   
   (3) Number of charity trustees
-    Option 1
-      (a) There must be at least [three] charity trustees. If the number falls below this minimum, the remaining trustee or trustees may act only to call a meeting of the charity trustees, or appoint a new charity trustee.
-    Option 1a 
-      (b) The maximum number of charity trustees is [12]. The charity trustees may not appoint any charity trustee if as a result the number of charity trustees would exceed the maximum.  
-    Option 1b
-      (b) There is no maximum number of charity trustees that may be appointed to the CIO.
-    Option 2
-      (a) There should be:
-        [Not less than... nor more than]... elected trustees;
-        [... ex officio trustee[s]; and
-        [Not less than... nor more than]... nominated trustees].
-      (b) There must be at least [three] charity trustees. If the number falls below this minimum, the remaining trustee or trustees may act only to call a meeting of the charity trustees, or appoint a new charity trustee.
-      (c) The maximum number of charity trustees that can be appointed is as provided in sub-clause (a) of this clause.  No trustee appointment may be made in excess of these provisions.
+      (a) There must be at least three charity trustees. If the number falls below this minimum, the remaining trustee or trustees may act only to call a meeting of the charity trustees, or appoint a new charity trustee.
+      (b) The maximum number of charity trustees is 12. The charity trustees may not appoint any charity trustee if as a result the number of charity trustees would exceed the maximum.  
   
   (4) First charity trustees
     The first charity trustees of the CIO are –
-    .........................................................................................................................
-    .........................................................................................................................
-    .........................................................................................................................
-    .........................................................................................................................
-    .........................................................................................................................
+        Anton Piatek
+        Benjamin Gillam
+        Bracken Dawson
+        Christopher Smith
+        James Bruton
 
 13. Appointment of charity trustees
   
-  Option 1
-    [(1) At the first annual general meeting of the members of the CIO all the charity trustees shall retire from office;]
-    (2) At every [subsequent] annual general meeting of the members of the CIO, one-third of the charity trustees shall retire from office. If the number of charity trustees is not three or a multiple of three, then the number nearest to one-third shall retire from office, but if there is only one charity trustee, he or she shall retire;
-    (3) The charity trustees to retire by rotation shall be those who have been longest in office since their last appointment or reappointment. If any trustees were last appointed or reappointed on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot;
-    (4) The vacancies so arising may be filled by the decision of the members at the annual general meeting; any vacancies not filled at the annual general meeting may be filled as provided in sub-clause (5) of this clause;
-    (5) The members or the charity trustees may at any time decide to appoint a new charity trustee, whether in place of a charity trustee who has retired or been removed in accordance with clause [15] (Retirement and removal of charity trustees), or as an additional charity trustee, provided that the limit specified in clause [12(3)] on the number of charity trustees would not as a result be exceeded;
-    (6) A person so appointed by the members of the CIO shall retire in accordance with the provisions of sub-clauses (2) and (3) of this clause. A person so appointed by the charity trustees shall retire at the conclusion of the next annual general meeting after the date of his or her appointment, and shall not be counted for the purpose of determining which of the charity trustees is to retire by rotation at that meeting.
-  
-  Option 2
-    (1) Elected charity trustees
-      [(a) At the first annual general meeting of the members of the CIO all the elected charity trustees shall retire from office;]
-      (b) At every [subsequent] annual general meeting of the members of the CIO, one-third of the elected charity trustees shall retire from office. If the number of elected charity trustees is not three or a multiple of three, then the number nearest to one-third shall retire from office, but if there is only one charity trustee, he or she shall retire;
-      (c) The charity trustees to retire by rotation shall be those who have been longest in office since their last appointment or reappointment. If any trustees were last appointed or reappointed on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot;
-      (d) The vacancies so arising may be filled by the decision of the members at the annual general meeting; any vacancies not filled at the annual general meeting may be filled as provided in sub-clause (e) of this clause;
-      (e) The members or the charity trustees may at any time decide to appoint a new charity trustee, whether in place of a charity trustee who has retired or been removed in accordance with clause [15] (Retirement and removal of charity trustees), or as an additional charity trustee, provided that the limit specified in clause [12(3)] on the number of charity trustees would not as a result be exceeded;
-      (f) A person so appointed by the members of the CIO shall retire in accordance with the provisions of sub-clauses (b) and (c) of this clause. A person so appointed by the charity trustees shall retire at the conclusion of the annual general meeting next following the date of his appointment, and shall not be counted for the purpose of determining which of the charity trustees is to retire by rotation at that meeting.
-    [(2) Ex officio charity trustee[s]
-      The [insert role] for the time being (“the office holder”) shall automatically, by virtue of holding that office (“ex officio”), be a charity trustee.
-      If unwilling to act as a charity trustee, the office holder may:
-        (a) before accepting appointment as a charity trustee, give notice in writing to the trustees of his or her unwillingness to act in that capacity; or
-        (b) after accepting appointment as a charity trustee, resign under the provisions contained in clause 15 (Retirement and removal of charity trustees).
-      The office of ex officio charity trustee will then remain vacant until the office holder ceases to hold office.]
-    [(3) Nominated Charity Trustee[s]
-      (a) [insert name of appointing body] (“the appointing body”) may appoint [insert number] charity trustees.
-      (b) Any appointment must be made at a meeting held according to the ordinary practice of the appointing body.
-      (c) Each appointment must be for a term of [3] years.  
-      (d) The appointment will be effective from the later of:
-        (i) the date of the vacancy; or
-        (ii) the date on which the CIO is informed of the appointment.
-      (e) The person appointed need not be a member of the appointing body.
-      (f) A trustee appointed by the appointing body has the same duty under Clause 12(1) as the other charity trustees to act in the way he or she decides in good faith would be most likely to further the purposes of the CIO.]
+    (1) At every annual general meeting of the members of the CIO, one-third of the charity trustees shall retire from office. If the number of charity trustees is not three or a multiple of three, then the number nearest to one-third shall retire from office, but if there is only one charity trustee, he or she shall retire;
+    (2) The charity trustees to retire by rotation shall be those who have been longest in office since their last appointment or reappointment. If any trustees were last appointed or reappointed on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot;
+    (3) The vacancies so arising may be filled by the decision of the members at the annual general meeting; any vacancies not filled at the annual general meeting may be filled as provided in sub-clause (5) of this clause;
+    (4) The members or the charity trustees may at any time decide to appoint a new charity trustee, whether in place of a charity trustee who has retired or been removed in accordance with clause [15] (Retirement and removal of charity trustees), or as an additional charity trustee, provided that the limit specified in clause [12(3)] on the number of charity trustees would not as a result be exceeded;
+    (5) A person so appointed by the members of the CIO shall retire in accordance with the provisions of sub-clauses (2) and (3) of this clause. A person so appointed by the charity trustees shall retire at the conclusion of the next annual general meeting after the date of his or her appointment, and shall not be counted for the purpose of determining which of the charity trustees is to retire by rotation at that meeting.
 
 14. Information for new charity trustees
   
@@ -312,16 +308,16 @@ Date of constitution (last amended): 5th February 2013.
     (b) is absent without the permission of the charity trustees from all their meetings held within a period of six months and the trustees resolve that his or her office be vacated;
     (c) dies;
     (d) becomes incapable by reason of mental disorder, illness or injury of managing and administering his or her own affairs;
-    (e) [is removed by the members of the CIO in accordance with sub-clause (2) of this clause;] or
+    (e) is removed by the members of the CIO in accordance with sub-clause (2) of this clause; or
     (f) is disqualified from acting as a charity trustee by virtue of section 178-180 of the Charities Act 2011 (or any statutory re-enactment or modification of that provision).
   
-  [(2) A charity trustee shall be removed from office if a resolution to remove that trustee is proposed at a general meeting of the members called for that purpose and properly convened in accordance with clause [11], and the resolution is passed by a [two-thirds] majority of votes cast at the meeting.
+  (2) A charity trustee shall be removed from office if a resolution to remove that trustee is proposed at a general meeting of the members called for that purpose and properly convened in accordance with clause [11], and the resolution is passed by a [two-thirds] majority of votes cast at the meeting.
   
-  (3) A resolution to remove a charity trustee in accordance with this clause shall not take effect unless the individual concerned has been given at least 14 clear days’ notice in writing that the resolution is to be proposed, specifying the circumstances alleged to justify removal from office, and has been given a reasonable opportunity of making oral and/or written representations to the members of the CIO.]
+  (3) A resolution to remove a charity trustee in accordance with this clause shall not take effect unless the individual concerned has been given at least 14 clear days’ notice in writing that the resolution is to be proposed, specifying the circumstances alleged to justify removal from office, and has been given a reasonable opportunity of making oral and/or written representations to the members of the CIO.
 
 16. Reappointment of charity trustees
   
-  Any person who retires as a charity trustee by rotation or by giving notice to the CIO is eligible for reappointment. [A charity trustee who has served for [three] consecutive terms may not be reappointed for a [fourth] consecutive term but may be reappointed after an interval of at least [three years].]
+  Any person who retires as a charity trustee by rotation or by giving notice to the CIO is eligible for reappointment.
 
 17.  Taking of decisions by charity trustees
   
@@ -336,8 +332,7 @@ Date of constitution (last amended): 5th February 2013.
   (2) This power is in addition to the power of delegation in the General Regulations and any other power of delegation available to the charity trustees, but is subject to the following requirements -
     (a) a committee may consist of two or more persons, but at least one member of each committee must be a charity trustee;
     (b) the acts and proceedings of any committee must be brought to the attention of the charity trustees as a whole as soon as is reasonably practicable; and
-    (c) the charity trustees shall from time to time review the arrangements which they have made for the delegation
-  of their powers.
+    (c) the charity trustees shall from time to time review the arrangements which they have made for the delegation of their powers.
 
 19. Meetings and proceedings of charity trustees
   
@@ -349,9 +344,9 @@ Date of constitution (last amended): 5th February 2013.
     The charity trustees may appoint one of their number to chair their meetings and may at any time revoke such appointment. If no-one has been so appointed, or if the person appointed is unwilling to preside or is not present within 10 minutes after the time of the meeting, the charity trustees present may appoint one of their number to chair that meeting.
   
   (3) Procedure at meetings
-    (a) No decision shall be taken at a meeting unless a quorum is present at the time when the decision is taken. The quorum is [two] charity trustees, or the number nearest to [one third] of the total number of charity trustees, whichever is greater, or such larger number as the charity trustees may decide from time to time. A charity trustee shall not be counted in the quorum present when any decision is made about a matter upon which he or she is not entitled to vote.
+    (a) No decision shall be taken at a meeting unless a quorum is present at the time when the decision is taken. The quorum is two charity trustees, or the number nearest to one third of the total number of charity trustees, whichever is greater, or such larger number as the charity trustees may decide from time to time. A charity trustee shall not be counted in the quorum present when any decision is made about a matter upon which he or she is not entitled to vote.
     (b) Questions arising at a meeting shall be decided by a majority of those eligible to vote.
-    [(c)    In the case of an equality of votes, the chair shall have a second or casting vote.]
+    (c) In the case of an equality of votes, the chair shall have a second or casting vote.
   
   (4) Participation in meetings by electronic means
     (a) A meeting may be held by suitable electronic means agreed by the charity trustees in which each participant may communicate with all the other participants.
@@ -381,11 +376,22 @@ if, without the vote of that charity trustee and that charity trustee being coun
 
 22. Use of electronic communications
   
-  [(1) General]
+  (1) General
     The CIO will comply with the requirements of the Communications
     Provisions in the General Regulations and in particular:
       (a) the requirement to provide within 21 days to any member on request a hard copy of any document or information sent to the member otherwise than in hard copy form;
       (b) any requirements to provide information to the Commission in a particular form or manner.
+  (2) To the CIO
+    Any member or charity trustee of the CIO may communicate electronically with the CIO to an address specified by the CIO for the purpose, so long as the communication is authenticated in a manner which is satisfactory to the CIO.
+  ￼(3) By the CIO
+    (a) Any member or charity trustee of the CIO, by providing the CIO with his or her email address or similar, is taken to have agreed to receive communications from the CIO in electronic form at that address, unless the member has indicated to the CIO his or her unwillingness to receive such communications in that form.
+    (b) The charity trustees may, subject to compliance with any legal requirements, by means of publication on its website –
+      (i) provide the members with the notice referred to in clause 11(3) (Notice of general meetings);
+      (ii) give charity trustees notice of their meetings in accordance with clause 18(1) (Calling meetings); and
+      (iii) submit any proposal to the members or charity trustees for decision by written resolution or postal vote in accordance with the CIO’s powers under clause 10 (Members’ decisions), 18(5) (Decisions taken by resolution in writing), or clause 11(8) (Postal voting).
+    (c) The charity trustees must :
+      (i) take reasonable steps to ensure that members and charity trustees are promptly notified of the publication of any such notice or proposal;
+      (ii) send any such notice or proposal in hard copy form to any member or charity trustee who has not consented to receive communications in electronic form.
 
 23. Keeping of Registers
   
@@ -477,8 +483,3 @@ if, without the vote of that charity trustee and that charity trustee being coun
     “charity trustee” means a charity trustee of the CIO.
 
     A “poll” means a counted vote or ballot, usually (but not necessarily) in writing.
-
-
-
-
-TODO: Appendix - proxy voting / postal voting / use of electronic communications
