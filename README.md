@@ -11,10 +11,13 @@ The constitution is the Association Model Constitution for a CIO
 
  * constitution.txt - the textually formatted constitution, agreed by
    the committee
+ * index.html - the formatted constitution - [view it
+   here][constitution].
  * constitution.md - a markdown version of constitution.txt, purely for
    convenience - it is not well formatted (especially at the end).
- * html/ - the HTML version and it's dependencies. This is important.
+ * html/ - resources for the html.
  * convert.sh - a script to convert the .txt file to .md and .html
 
 [CIO PDF]: http://www.charity-commission.gov.uk/Library/guidance/CIO-AssociationModelConstitution.pdf
 [CC CIO FAQ]: http://www.charity-commission.gov.uk/FAQS/Registering_a_charity/FAQs_about_CIOs/ID273.aspx
+[constitution]: http://benjie.github.com/somakeit-constitution/

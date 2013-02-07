@@ -14,6 +14,6 @@ sed -E \
  -e 's/^( *)[a-z]*\. /\11\. /' \
  -e 's/–/--/g' \
  constitution.tmp > constitution.md
-pandoc --from=markdown --to=html5 --output=html/constitution.html --css=style.css ./constitution.tmp
+pandoc --from=markdown --to=html5 --output=index.html --css=html/style.css ./constitution.tmp
 rm constitution.tmp
 
