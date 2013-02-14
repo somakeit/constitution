@@ -20,4 +20,4 @@ The constitution is the Association Model Constitution for a CIO
 
 [CIO PDF]: http://www.charity-commission.gov.uk/Library/guidance/CIO-AssociationModelConstitution.pdf
 [CC CIO FAQ]: http://www.charity-commission.gov.uk/FAQS/Registering_a_charity/FAQs_about_CIOs/ID273.aspx
-[constitution]: http://benjie.github.com/somakeit-constitution/
+[constitution]: http://so-make-it.github.com/constitution/
